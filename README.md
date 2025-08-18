@@ -1,10 +1,10 @@
-# VPS Node Secure Proxy 🚀
+VPS Node Secure Proxy 🚀
 One-click script to expose your Node.js app on a VPS with **HTTPS + password protection**, without needing a domain.  
 It uses a **self-signed SSL certificate** so the WebCrypto API works properly in browsers.  
 
 ---
 
-## 🔹 Features
+🔹 Features
 - ✅ Auto Nginx reverse proxy  
 - ✅ Self-signed HTTPS (no domain required)  
 - ✅ Basic authentication (username + password)  
