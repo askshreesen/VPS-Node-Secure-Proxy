@@ -1,6 +1,6 @@
 # VPS Node Secure Proxy 🚀
 One-click script to expose your Node.js app on a VPS with **HTTPS + password protection**, without needing a domain.  
-It uses a self-signed SSL certificate so the **WebCrypto API** works properly in browsers.  
+It uses a **self-signed SSL certificate** so the WebCrypto API works properly in browsers.  
 
 ---
 
@@ -21,4 +21,4 @@ It uses a self-signed SSL certificate so the **WebCrypto API** works properly in
 ## 🔹 Usage (One Command)
 Run this on your VPS:
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/YOUR-USERNAME/vps-node-secure-proxy/main/selfsigned.sh)
+bash <(curl -s https://raw.githubusercontent.com/askshreesen/VPS-Node-Secure-Proxy/main/selfsigned.sh)
